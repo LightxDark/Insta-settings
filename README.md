@@ -1,22 +1,24 @@
 # [Revamped Instagram Data Experience]
-A web-based project to simplify ad settings on Instagram. 
-
+#### A web-based project to simplify ad settings on Instagram. 
 ---
 
 ## Features
-- This project aims to simplify 
-- [Another feature here]
+This project aims to do the following:
+- Simplify the process of disabling personalized ads
+- Make viewing one's collected information more transparent
+- Make it easier to access important resources
+- Less clutter altogether
 
 ---
 
 ## Getting Started
 
 ### Prerequisites
-To run this project locally, you need:
-- [Node.js v20.10.0] (recent versions may also work)
-- [Any other dependencies like npm or Yarn]
+To view the project, simply visit the link below
 
-### Installation
-1. Unzip the file from Canvas:
-2. Download the following dependencies (if needed)
-    * NextJs
+Website: https://insta-settings-7v7v4z3qe-lightxdarks-projects.vercel.app/ 
+
+###### (URL will be shortened ASAP)
+
+ Github: https://github.com/LightxDark/insta-settings
+
