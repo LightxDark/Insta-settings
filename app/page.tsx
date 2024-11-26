@@ -1,4 +1,5 @@
 import SideBar from '../components/Sidebar'
+import Image from 'next/image'
 
 export default function Home() {
     return (
@@ -17,7 +18,7 @@ export default function Home() {
 
                     <div className=" cursor-pointer border rounded-3xl">
                         <div className="flex p-4 hover:bg-gray-200 ">
-                            <img src="https://preview.redd.it/9tufcn9pmxz41.png?auto=webp&s=89313bc19d1506ea7860551ad6c989cde6e8140c" alt=""  width={32} className="rounded-full w-1/12"/>
+                            <Image src="https://preview.redd.it/9tufcn9pmxz41.png?auto=webp&s=89313bc19d1506ea7860551ad6c989cde6e8140c" alt="" height={32}  width={32} className="rounded-full w-1/12"/>
                             <div className="flex flex-col ">
                                 <span className=" font-semibold">Your Account</span>
                                 <span>This Site</span>
