@@ -16,9 +16,11 @@ This project aims to do the following:
 ### Prerequisites
 To view the project, simply visit the link below
 
-Website: https://insta-settings-7v7v4z3qe-lightxdarks-projects.vercel.app/ 
+Website: https://insta-settings-7v7v4z3qe-lightxdarks-projects.vercel.app/ad-preferences
 
 ###### (URL will be shortened ASAP)
 
  Github: https://github.com/LightxDark/insta-settings
+
+###### Once at the website, press "Ad Preferences". 
 
