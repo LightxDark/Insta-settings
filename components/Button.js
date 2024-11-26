@@ -1,5 +1,3 @@
-import Link from "next/link"
-
 const Button = ({ className, to, ...props }) => {
     const formattedTo = to.replace(/\s+/g, '-').toLowerCase();    
     return (

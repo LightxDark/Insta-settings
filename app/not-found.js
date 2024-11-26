@@ -1,5 +1,4 @@
-import Image from "next/image";
-import Button from '../components/Button';
+import Link from "next/link";
 
 export default function Custom404() {
     return (
@@ -7,9 +6,9 @@ export default function Custom404() {
             <h1>404 - Page Not Found</h1>
             <p>Oops! The page you're looking for doesn't exist, and is likely still in construction!</p>
             <p>Check again later!</p>
-            <a href="/" style={{ color: 'blue', textDecoration: 'underline' }}>
+            <Link href="/" style={{ color: 'blue', textDecoration: 'underline' }}>
                 Go back home
-            </a>
+            </Link>
         </div>
     );
 }

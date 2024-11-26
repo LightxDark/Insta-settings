@@ -1,11 +1,9 @@
 'use client'
 
 import Image from "next/image";
-import Button from '../../components/Button';
 import SideBar from '../../components/Sidebar';
 import { useState } from 'react';
 import Modal from '../../components/Modal';
-import Toggle from '../../components/Toggle'
 import Popup from '../../components/popup'
 
 export default function AdPreferences() {
