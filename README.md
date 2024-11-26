@@ -22,5 +22,3 @@ Website: https://insta-settings-7v7v4z3qe-lightxdarks-projects.vercel.app/ad-pre
 
  Github: https://github.com/LightxDark/insta-settings
 
-###### Once at the website, press "Ad Preferences". 
-
